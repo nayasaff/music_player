@@ -1,0 +1,104 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: #05998c;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem ;
+ 
+}    
+
+.navbar-menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #fff;
+    
+}
+
+.navbar-menu a{
+    padding: 0 1rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.navbar-menu h3{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family: 'Inter';
+    margin-right: 0.5rem;
+}
+
+
+
+.navbar-search input{
+    background-color:#28a99e;
+    font-size: 18px;
+    border: none;
+    padding: 0.5rem 0rem 0.25rem 0.25rem;
+}
+
+.navbar-search input::placeholder{
+    color: #fff;
+}
+
+input[type="range"] {
+    --range-progress: 0;
+    /* ... */
+}
+
+input[type="range"]::before {
+    /* ... */
+    background: #f50;
+    width: var(--range-progress);
+    /* ... */
+}
+
+.gg-menu {
+    transform: scale(var(--ggs,1.25))
+}
+.gg-menu,
+.gg-menu::after,
+.gg-menu::before {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    width: 20px;
+    height: 2px;
+    border-radius: 3px;
+    background: white
+}
+.gg-menu::after,
+.gg-menu::before {
+    content: "";
+    position: absolute;
+    top: -6px
+}
+.gg-menu::after {
+    top: 6px
+}
+
+.navbar-hamburger-menu{
+    display: none;
+}
+
+@media only screen and (max-width: 549px){
+    .navbar-hamburger-menu{
+        display: block;
+        padding: 0.5rem;
+
+    }
+    .navbar-menu{
+        display: none;
+    }
+    .navbar{
+        width: 100%;
+    }
+   
+}

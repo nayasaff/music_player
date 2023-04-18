@@ -1,0 +1,122 @@
+[
+    {
+        "songNumber" :1,
+        "name" : "Eyes of a Stranger",
+        "artist" : "Queensrÿche",
+        "yearOfRelease" : 1988,
+        "genre" : ["progressive metal", "rock"],
+        "track" : "https://cdns-preview-5.dzcdn.net/stream/c-5ee0984b1dda350ca8c0c883206de4a0-10.mp3"
+    },
+    {
+        "songNumber" :2,
+        "name" : "Master of Puppets",
+        "artist" : "Metallica",
+        "yearOfRelease" : 1986,
+        "genre" : ["thrash metal", "heavy metal"],
+        "track" : "https://cdns-preview-b.dzcdn.net/stream/c-bfed4c5755c1f45661c04219222a5973-7.mp3"
+    },
+    {
+        "songNumber" :3,
+        "name" : "Raining Blood",
+        "artist" : "Slayer",
+        "yearOfRelease" : 1986,
+        "genre" : ["thrash metal"],
+        "track" : "https://cdns-preview-e.dzcdn.net/stream/c-ec05460d91c5820df46892eaceca6239-7.mp3"
+        },
+    {
+        "songNumber" :4,
+        "name" : "Ace of Spade",
+        "artist" : "Motörhead",
+        "yearOfRelease" : 1980,
+        "genre" : ["heavy metal", "rock"],
+        "track" : "https://cdns-preview-8.dzcdn.net/stream/c-87e80e5e935a1ad1c2eed55fa3b47956-3.mp3"
+    },
+    {
+        "songNumber" :5,
+        "name" : "Black Sabbath",
+        "artist" : "Black Sabbath",
+        "yearOfRelease" : 1970,
+        "genre" : ["doom metal", "heavy metal"],
+        "track" : "https://cdns-preview-4.dzcdn.net/stream/c-4d8f28cea5b519646201a4dc52a0709d-6.mp3"
+    },
+    {
+        "songNumber" :6,
+        "name" : "Holy Wars... The Punishment Due",
+        "artist" : "Megadeth",
+        "yearOfRelease" : 1990,
+        "genre" : ["thrash metal"],
+        "track" : "https://cdns-preview-7.dzcdn.net/stream/c-78a2272f99d66073d433ad6e03d8f569-8.mp3"    
+    },
+    {
+        "songNumber" :7,
+        "name" : "Holy Diver",
+        "artist" : "Dio",
+        "yearOfRelease" : 1983,
+        "genre" : ["heavy metal"],
+        "track" : "https://cdns-preview-7.dzcdn.net/stream/c-73f320523b961c76f93902ef60e4a81c-3.mp3"           
+    },
+    {
+        "songNumber" :8,
+        "name" : "One",
+        "artist" : "Metallica",
+        "yearOfRelease" : 1988,
+        "genre" : ["thrash metal"] ,
+        "track" : "https://cdns-preview-2.dzcdn.net/stream/c-272905d4ac48cd74748be5d890df2151-7.mp3"   
+    },
+    {
+        "songNumber" :9,
+        "name" : "Peace Sells",
+        "artist" : "Megadeth",
+        "yearOfRelease" : 1991,
+        "genre" : ["thrash metal"],
+        "track" : "https://cdns-preview-a.dzcdn.net/stream/c-a358159d646334816e7d008db5faea60-8.mp3"   
+    },
+    {
+        "songNumber" :10,
+        "name" : "The Troopers",
+        "artist" : "Megadeth",
+        "yearOfRelease" : 1983,
+        "genre" : ["heavy metal"],
+        "track" : "https://cdns-preview-8.dzcdn.net/stream/c-84b380beb0de76d8ce3f7b05f7cd1c3a-5.mp3"   
+    },
+    {
+        "songNumber" :11,
+        "name" : "South of Heaven",
+        "artist" : "Slayer",
+        "yearOfRelease" : 1988,
+        "genre" : ["thrash metal"],
+        "track" : "https://cdns-preview-8.dzcdn.net/stream/c-88792e5fe766197c353da450428c8dc5-5.mp3"      
+    },
+    {
+        "songNumber" :12,
+        "name" : "Walk",
+        "artist" : "Pantera",
+        "yearOfRelease" : 1992,
+        "genre" : ["groove metal"],
+        "track" : "https://cdns-preview-7.dzcdn.net/stream/c-7b10aab8626095cd79480ff2bf345ad5-7.mp3"      
+    },
+    {
+        "songNumber" :13,
+        "name" : "Mother",
+        "artist" : "Danzig",
+        "yearOfRelease" : 1998,
+        "genre" : ["heavy metal"],
+        "track" : "https://cdns-preview-7.dzcdn.net/stream/c-7b906d09e4bb332f07f6a9fd20070503-7.mp3"       
+    },
+    {
+        "songNumber" :14,
+        "name" : "Chop Suey",
+        "artist" : "System of a down",
+        "yearOfRelease" : 2001,
+        "genre" : ["nu metal", "progressive metal"],
+        "track" : "https://cdns-preview-c.dzcdn.net/stream/c-caa438e780d2b57f12eac5e4ef9c6ef7-6.mp3"      
+    },
+    {
+        "songNumber" :15,
+        "name" : "Bleed",
+        "artist" : "Meshuggah",
+        "yearOfRelease" : 2008,
+        "genre" : ["extreme metal", "progressive metal"],
+        "track" : "https://cdns-preview-d.dzcdn.net/stream/c-d85a997ae6f678c8c28e5040fc39f3d8-5.mp3"           
+    }
+]
