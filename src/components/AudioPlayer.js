@@ -74,7 +74,6 @@ export default function AudioPlayer() {
                   />
               </div>
               <span>{formatTime(timeProgress)}/{formatTime(duration)}</span>
-              
               <Controls
                   audioRef={audioRef}
                   progressBarRef={progressBarRef}
