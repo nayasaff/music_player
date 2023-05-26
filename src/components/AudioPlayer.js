@@ -57,7 +57,7 @@ export default function AudioPlayer() {
       </div>
       )
       }
-      {track && (
+      {track && window.innerWidth < 550 && (
         <div className='audio-player-mobile'>
           <Progress
             progressBarRef={progressBarRef}
@@ -73,7 +73,7 @@ export default function AudioPlayer() {
                     setDuration={setDuration}
                   />
               </div>
-              <span>{formatTime(timeProgress)}/{formatTime(duration)}</span>
+              
               <Controls
                   audioRef={audioRef}
                   progressBarRef={progressBarRef}
